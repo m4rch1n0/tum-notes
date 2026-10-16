@@ -1,0 +1,6 @@
+# Published: README.md and the final PDFs <Course>/main.pdf. Everything else stays local.
+*
+!*/
+!/.gitignore
+!/README.md
+!*/main.pdf

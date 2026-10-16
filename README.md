@@ -4,6 +4,4 @@ Lecture notes from my MSc in Mathematics in Data Science at TUM, typeset in LaTe
 
 ## Courses
 
-- [Introduction to Quantum Computing](Introduction%20to%20Quantum%20Computing/main.pdf) — Christian Mendl, WS 2026/27
-
-— Marco Galletti
+- [Introduction to Quantum Computing](Introduction%20to%20Quantum%20Computing/main.pdf) (Christian Mendl, WS 2026/27)
